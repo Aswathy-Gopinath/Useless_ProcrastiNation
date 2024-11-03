@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ProcrastiNation 🎯
 
-## Available Scripts
+## Basic Details
+### Team Name: ASDEIR
 
-In the project directory, you can run:
+### Team Members
+- Team Lead: Irine Paul - Toc H Institute of Sceince and Technology
+- Member 2: Deva Nanda Nair - Toc H Institute of Sceince and Technology
+- Member 3: Aswathy Gopinath - Toc H Institute of Sceince and Technology
 
-### `npm start`
+### Project Description
+Let's Procrastinate with a purpose!
+ProcrastiNation is a humorous productivity app that alternates between serious and silly tasks to keep users motivated and entertained. Just when you're on a roll with your productivity, ProcrastiNation will surprise you with an amusingly pointless task to keep things... unpredictable!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### The Problem (that doesn't exist)
+Too much productivity can be boring! Staying on track with a to-do list can feel like a drag, so why not sprinkle some fun into it?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### The Solution (that nobody asked for)
+ProcrastiNation interjects random "silly tasks" between productive tasks. For every productive task completed, you’ll be given a lighthearted “silly task” that makes absolutely no sense but keeps you laughing!
 
-### `npm test`
+## Technical Details
+### Technologies/Components Used
+For Software:
+- Languages: JavaScript, CSS, HTML
+- Framework: React
+- Libraries: Toastify for notifications, React Icons
+- Tools: VS Code, GitHub for version control
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+For Hardware:
+- [No hardware required — this is pure fun!]
 
-### `npm run build`
+### Implementation
+For Software:
+#### Installation
+```bash
+# Clone the repo https://github.com/devananda6200/Useless_ProcrastiNation
+git clone 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Navigate to the project folder
+cd ProcrastiNation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Install dependencies
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#To Run
+# Start the development server
+npm start
 
-### `npm run eject`
+```
+### Project Documentation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### Screenshots
+![Main Screen](https://github.com/user-attachments/assets/f860afe9-0056-4f8b-a72e-4a9a5188b52f)
+)  
+*Main task interface displaying productive and silly tasks.*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Task Completed Notification]((https://github.com/user-attachments/assets/7a0e3818-15fa-4793-b2e6-2484d5d5bec9)
+)  
+*Notification popup for completed task.*
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Timer Running](https://github.com/user-attachments/assets/1d8ae033-a077-4b56-8758-ad3e8e6bb8b8)
+)  
+*Timer active on a productive task, displaying task countdown.*
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### Diagrams
+![Workflow Diagram](![Screenshot 2024-11-03 062004](https://github.com/user-attachments/assets/1ee38438-8ccc-4e2c-a982-47ef3b584d87)
+e)  
+*Diagram illustrating the alternation between productive and silly tasks.*
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Hardware
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Schematic & Circuit
+_No hardware is required for this project, but feel free to add funny hardware ideas if needed._
 
-### Code Splitting
+#### Build Photos
+![Components](https://github.com/user-attachments/assets/5f84ffb2-4c22-4093-b949-422c8b39390e)
+)  
+*Here’s a hypothetical image of "components" to add some humor!*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Final Product](https://github.com/user-attachments/assets/f32b3a75-1806-4cc9-9917-061a9597d9a6)
+)  
+*Final view of the app interface after adding fun elements and styling.*
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Project Demo
 
-### Making a Progressive Web App
+#### Video
+[https://drive.google.com/file/d/1-nkgvW6lt3ymOcbmivhtImgMn7yfHhbc/view?usp=drive_link ]  
+*Video demonstrating user flow through productive and silly tasks.*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+Made with ❤️ at TinkerHub Useless Projects 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
-### Deployment
+![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
